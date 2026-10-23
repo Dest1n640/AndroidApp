@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adaptation</string>
+    <string name="change_picture">Следующая картинка</string>
+    <string name="picture">Машина</string>
+    <string-array name="pictures">
+        <item>car 1</item>
+        <item>car 2</item>
+        <item>car 3</item>
+    </string-array>
+</resources>
