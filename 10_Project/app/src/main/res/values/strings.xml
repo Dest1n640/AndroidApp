@@ -9,4 +9,5 @@
     <string name="card_moon">Месяц</string>
     <string name="card_heart">Сердце</string>
     <string name="card_cross">Крест</string>
+    <string name="win_message">Победа!</string>
 </resources>
