@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Меморина</string>
+    <string name="card_closed">Закрытая карта</string>
+    <string name="card_circle">Круг</string>
+    <string name="card_triangle">Треугольник</string>
+    <string name="card_square">Квадрат</string>
+    <string name="card_diamond">Ромб</string>
+    <string name="card_star">Звезда</string>
+    <string name="card_moon">Месяц</string>
+    <string name="card_heart">Сердце</string>
+    <string name="card_cross">Крест</string>
+</resources>
