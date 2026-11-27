@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Список людей</string>
+    <string name="add_person">Добавить человека</string>
+    <string name="full_name">%1$s %2$s</string>
+
+    <string-array name="first_names">
+        <item>Анна</item>
+        <item>Артём</item>
+        <item>Вера</item>
+        <item>Даниил</item>
+        <item>Ирина</item>
+        <item>Кирилл</item>
+        <item>Лев</item>
+        <item>Майя</item>
+        <item>Михаил</item>
+        <item>Софья</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Бондаренко</item>
+        <item>Гончарук</item>
+        <item>Дорошенко</item>
+        <item>Коваленко</item>
+        <item>Кравчук</item>
+        <item>Мельниченко</item>
+        <item>Олейник</item>
+        <item>Романюк</item>
+        <item>Ткаченко</item>
+        <item>Шевченко</item>
+    </string-array>
+</resources>
